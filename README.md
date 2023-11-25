@@ -1,4 +1,4 @@
-# JavaScript Vanilla Template
+# JavaScript VanillaJS Template
 
 ## Dependencies
 
