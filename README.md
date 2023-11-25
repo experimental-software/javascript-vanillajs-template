@@ -7,9 +7,9 @@
 ## Create new project
 
 ```sh
-SLUG=example
+SLUG=javascript-sandbox-$(date +%s)
 {
-git clone git@github.com:experimental-software/javascript-vanilla-template.git $SLUG
+git clone git@github.com:experimental-software/javascript-vanillajs-template.git $SLUG
 cd $SLUG
 rm -rf .git
 git init
