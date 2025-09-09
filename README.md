@@ -1,6 +1,6 @@
 # JavaScript VanillaJS Template
 
-> starting points for experiments with plain JavaScript and CSS augmented with [Bootstrap](https://getbootstrap.com/)
+> starting points for experiments with plain JavaScript and CSS
 
 ## Dependencies
 
