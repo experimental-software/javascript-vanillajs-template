@@ -1,6 +1,6 @@
 # JavaScript VanillaJS Template
 
-> starting points for experiments with plain JavaScript and CSS
+> starting point for experiments with plain JavaScript and CSS
 
 ## Dependencies
 
