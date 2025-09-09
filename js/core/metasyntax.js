@@ -1,3 +1,3 @@
-export default function foo() {
-  return "foo";
+export default function message() {
+  return "Hello, World!";
 }

@@ -1,7 +1,7 @@
-import foo from "./core/metasyntax.js";
+import message from "./core/metasyntax.js";
 
 export function greeting() {
-  console.log(foo());
+  console.log(message());
 }
 
 const element = document.getElementById("btn");
