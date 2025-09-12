@@ -28,6 +28,18 @@ alive-server --no-browser
 
 Then open http://127.0.0.1:8080 in a web browser.
 
+## Prettier
+
+To enable prettier in IntelliJ IDEA:
+
+```
+npm install --save-dev prettier
+```
+
+**Also see**
+
+- https://www.jetbrains.com/help/idea/prettier.html
+
 ## References
 
 - http://vanilla-js.com/
